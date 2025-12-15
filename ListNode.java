@@ -1,6 +1,6 @@
 public class ListNode{
   private String data;
-  private ListNode next,prev;
+  private ListNode next, prev;
 
   public ListNode(String d){ //default next/prev should be null
   }
