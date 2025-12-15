@@ -1,4 +1,4 @@
-# LAB 06: MyLinkedList
+# LAB 08: MyLinkedList
 
 **Name:**
 
